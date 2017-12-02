@@ -19,7 +19,7 @@ def add_consecutive_numbers(number)
 	  sum = sum + list_of_numbers[-1]
 	end
 	
-	p sum
+	sum
 
 end
 
