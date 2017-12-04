@@ -521,7 +521,7 @@ def valid_passcode_count(passcode_list)
 	  new_array.push(subarray)
 	end
 	
-	p new_array.count
+	new_array.count
 	
 	
 	count = 0
@@ -536,3 +536,5 @@ def valid_passcode_count(passcode_list)
 	
 	p count
 end
+
+valid_passcode_count(passcode_list)
